@@ -1,0 +1,41 @@
+C:\Users\Abdulelah\Desktop\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\Abdulelah\Desktop\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\Abdulelah\Desktop\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\Abdulelah\Desktop\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\Abdulelah\Desktop\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Abdulelah\Desktop\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\Abdulelah\Desktop\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\Abdulelah\Desktop\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\Abdulelah\Desktop\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\Abdulelah\Desktop\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\Abdulelah\Desktop\Games\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.csproj.AssemblyReference.cache
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\Abdulelah\Desktop\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.pdb
+D:\Personal project-C#\My games\Game1\Game1\bin\Debug\Game1.exe.config
+D:\Personal project-C#\My games\Game1\Game1\bin\Debug\Game1.exe
+D:\Personal project-C#\My games\Game1\Game1\bin\Debug\Game1.pdb
+D:\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.csproj.AssemblyReference.cache
+D:\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.csproj.SuggestedBindingRedirects.cache
+D:\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.Form1.resources
+D:\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+D:\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+D:\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+D:\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.exe
+D:\Personal project-C#\My games\Game1\Game1\obj\Debug\Game1.pdb
